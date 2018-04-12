@@ -1,8 +1,8 @@
 <html>
     <head>
         <meta name="csrf-token" content="{{ csrf_token() }}">
-        <title>艺术空间</title>
-        <link rel="shortcut icon" href="images/favicon.ico" />
+        <title>我要赚点钱</title>
+        <link rel="shortcut icon" href="images/bitbug_favicon.ico" />
         <style>
             body {
                 margin:0 auto;
